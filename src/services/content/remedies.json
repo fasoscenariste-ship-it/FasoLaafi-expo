@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": "moringa",
+      "name": "Feuilles de moringa",
+      "uses": [
+        "fatigue",
+        "immunité"
+      ],
+      "howto": "Infuser 1 c. à soupe de feuilles séchées dans de l’eau chaude 10 min. Boire tiède.",
+      "culture": "Au Mali, les anciens recommandent le moringa pour retrouver de l’énergie.",
+      "caution": "À éviter chez la femme enceinte sans avis médical."
+    },
+    {
+      "id": "ginger",
+      "name": "Gingembre",
+      "uses": [
+        "digestion",
+        "nausée"
+      ],
+      "howto": "Faire bouillir 3-4 tranches pendant 5-7 min. Sucrer au miel si besoin.",
+      "culture": "Au Ghana, on boit souvent une tisane de gingembre après un repas copieux.",
+      "caution": "Peut irriter l’estomac à forte dose."
+    },
+    {
+      "id": "shea",
+      "name": "Beurre de karité",
+      "uses": [
+        "peau",
+        "irritations"
+      ],
+      "howto": "Appliquer une fine couche sur la zone irritée 2 fois/jour.",
+      "culture": "Au Burkina Faso, le karité est un trésor des traditions peules et mossé.",
+      "caution": "Tester sur une petite zone en cas d’allergie."
+    }
+  ]
+}

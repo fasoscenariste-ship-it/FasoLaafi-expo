@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "sabar",
+      "name": "Mouvements sabar",
+      "level": "léger",
+      "durationMin": 3,
+      "about": "Étirements dynamiques inspirés du sabar sénégalais."
+    },
+    {
+      "id": "coupe",
+      "name": "Coupé-décalé",
+      "level": "modéré",
+      "durationMin": 4,
+      "about": "Mouvements toniques inspirés du coupé-décalé ivoirien."
+    },
+    {
+      "id": "yoruba",
+      "name": "Pas yoruba",
+      "level": "doux",
+      "durationMin": 3,
+      "about": "Postures douces inspirées de rituels yoruba."
+    }
+  ]
+}

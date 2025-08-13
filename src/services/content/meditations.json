@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": "baobab",
+      "title": "La sagesse du baobab",
+      "text": "Imagine une soirée fraîche sous un baobab. Le vent murmure, le village s’apaise. Inspire profondément, expire lentement…",
+      "durationMin": 5
+    },
+    {
+      "id": "anansi",
+      "title": "Le fil d’Anansi",
+      "text": "Le conte d’Anansi rappelle que chaque jour a son chemin. Inspire, compte jusqu’à trois, sens l’air te traverser.",
+      "durationMin": 7
+    }
+  ]
+}
